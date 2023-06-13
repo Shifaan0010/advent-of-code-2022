@@ -1,0 +1,9 @@
+panic: Error 2 R , 3 U
+
+goroutine 1 [running]:
+main.connectFaces(0xc000125888)
+	/Users/Shifaan/Code/Advent of Code/22/cube.go:167 +0xc49
+main.NewCube({{0xc00010a000, 0xc, _}, {_, _, _}, {_, _, _}})
+	/Users/Shifaan/Code/Advent of Code/22/cube.go:113 +0x3cf
+main.main()
+	/Users/Shifaan/Code/Advent of Code/22/22.go:102 +0x75e
